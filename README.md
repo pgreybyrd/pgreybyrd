@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Paulina! 👋
 
-<!--
-**pgreybyrd/pgreybyrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer who loves building systems that are equal parts technical and whimsical.
 
-Here are some ideas to get you started:
+Some days that means building modular game architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other days it means desktop rats, procedural fireworks, or dynamic wallpapers that change with the weather.
+
+I enjoy designing reusable, extensible systems and then finding fun ways to bring them to life.
+
+---
+
+## Current Projects
+
+🎮 Arcane Acres
+A solo-developed farming and magic RPG built with MonoGame.
+
+🐀 Desktop Creatures
+A modular desktop companion framework featuring autonomous AI behaviors.
+
+🎆 Paulina's Fireworks
+A procedural particle-based fireworks engine built with C# and Windows Forms.
+
+🌅 Dynamic Desktop Background Generator
+A Python application that generates wallpapers using live weather, astronomical, seasonal, and time-of-day data.
+
+---
+
+## Technologies
+
+- C#
+- Python
+- MonoGame
+- Windows Forms
+- JSON
+- Git
+- Object-Oriented Design
+- Data-Driven Architecture
+
+---
+
+## Things I Enjoy Building
+
+✨ Game systems
+
+🐀 Tiny creatures
+
+🌲 Pixel art
+
+🎆 Particle systems
+
+🌙 Atmospheric visuals
+
+🧩 Modular architecture
+
+---
+
+Thanks for stopping by!
