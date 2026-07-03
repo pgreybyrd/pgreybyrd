@@ -1,8 +1,6 @@
 # Hi, I'm Paulina! 👋
 
-<p align="center">
-  <img src="Screenshots/fireworks.gif" width="650">
-</p>
+![Fireworks](Screenshots/fireworks.gif)
 
 I'm a software engineer who loves building systems that are equal parts technical and whimsical.
 
