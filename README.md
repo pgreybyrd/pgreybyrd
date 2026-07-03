@@ -1,5 +1,7 @@
 # Hi, I'm Paulina! 👋
 
+![Fireworks Demo](Screenshots/Fireworks.gif)
+
 I'm a software engineer who loves building systems that are equal parts technical and whimsical.
 
 Some days that means building modular game architecture.
