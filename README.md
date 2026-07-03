@@ -1,6 +1,6 @@
 # Hi, I'm Paulina! 👋
 
-![Fireworks Demo](Screenshots/Fireworks.gif)
+![Fireworks Demo](fireworks2.gif)
 
 I'm a software engineer who loves building systems that are equal parts technical and whimsical.
 
