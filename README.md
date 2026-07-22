@@ -14,16 +14,20 @@ I enjoy designing reusable, extensible systems and then finding fun ways to brin
 
 ## Current Projects
 
-🎮 Arcane Acres
+### 🎮 Arcane Acres
+
 A solo-developed farming and magic RPG built with MonoGame.
 
-🐀 Desktop Creatures
+### 🐀 Desktop Creatures
+
 A modular desktop companion framework featuring autonomous AI behaviors.
 
-🎆 Paulina's Fireworks
+### 🎆 Fireworks Overlay
+
 A procedural particle-based fireworks engine built with C# and Windows Forms.
 
-🌅 Dynamic Desktop Background Generator
+### 🌅 Dynamic Desktop Background Generator
+
 A Python application that generates wallpapers using live weather, astronomical, seasonal, and time-of-day data.
 
 ---
